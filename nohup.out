@@ -1,0 +1,15 @@
+
+> vite-react-typescript-starter@0.0.0 dev
+> vite
+
+
+  VITE v5.4.8  ready in 1766 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+> vite-react-typescript-starter@0.0.0 dev:server
+> tsx server/index.ts
+
+[dotenv@17.2.3] injecting env (2) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+Server running on port 3001
