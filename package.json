@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "start:server": "tsx server/index.ts",
+    "server": "tsx server/index.ts",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
